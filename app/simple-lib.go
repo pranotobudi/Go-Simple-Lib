@@ -1,8 +1,8 @@
 package main
 
 import (
-	"MyPrinter"
 	"fmt"
+	"simple-lib/MyPrinter"
 )
 
 func main() {
