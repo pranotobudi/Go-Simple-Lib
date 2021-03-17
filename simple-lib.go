@@ -1,11 +1,11 @@
 package main
 
 import (
+	"MyPrinter"
 	"fmt"
-	"printer"
 )
 
 func main() {
 	fmt.Printf("bismillah")
-	printer.MyPrinter("alhamdulillah")
+	MyPrinter.MyPrinter("alhamdulillah")
 }
