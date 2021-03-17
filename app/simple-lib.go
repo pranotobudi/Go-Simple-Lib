@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"simple-lib/MyPrinter"
+
+	"github.com/pranotobudi/Go-Simple-Lib/myprinter"
 )
 
 func main() {
 	fmt.Printf("bismillah")
-	MyPrinter.MyPrinter("alhamdulillah")
+	myprinter.MyPrinter("alhamdulillah")
 }
